@@ -27,10 +27,6 @@
     "nome": "JOÃO VICTOR FAVERO RIBEIRO",
     "foto": "JOÃO VICTOR FAVERO RIBEIRO.jpg"
   },
-  "9": {
-    "nome": "LETÍCIA FERNANDA MORAES BUENO",
-    "foto": "LETÍCIA FERNANDA MORAES BUENO.jpg"
-  },
   "10": {
     "nome": "LUENDREL ALLAN MANTOAN PARMEZANI",
     "foto": "LUENDREL ALLAN MANTOAN PARMEZANI.jpg"
@@ -66,5 +62,9 @@
   "18": {
     "nome": "THIAGO DE SOUSA TEIXEIRA",
     "foto": "THIAGO DE SOUSA TEIXEIRA.jpg"
+  },
+  "20": {
+    "nome": "ÉRIC DA SILVA RODRIGUES SANTOS",
+    "foto": "ÉRIC DA SILVA RODRIGUES SANTOS.jpg"
   }
 }
